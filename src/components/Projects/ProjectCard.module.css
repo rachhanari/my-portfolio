@@ -59,8 +59,6 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 8px;
-  list-style: none;
-  margin-right: 30px;
   margin-top: 8px;
 }
 
@@ -73,7 +71,6 @@
   border-radius: 50px;
 }
 
-/* Push links to the bottom */
 .links {
   display: flex;
   justify-content: center;
