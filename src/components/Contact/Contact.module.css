@@ -92,7 +92,7 @@ button{
 
 button:hover {
   background-color: rgb(75, 75, 228);
-  scale: 1.1;
+  scale: 1.04;
 }
 
 button:active {

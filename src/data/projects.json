@@ -16,7 +16,7 @@
   {
     "title": "Weather_App",
     "imageSrc": "projects/weather.png",
-    "description": "Real-time weather display with temperature, humidity, wind speed, and more.",
+    "description": "Real-time weather display with temperature, popular destinations humidity, wind speed, and more.",
     "skills": ["HTML", "CSS", "JS"],  
     "source": "https://github.com/rachhanari/Weather-App.git"
   }

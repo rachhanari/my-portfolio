@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
-import img1 from "../../../dist/assets/about/MyNewImg.png"
+import img1 from "../../../dist/assets/about/MyImg.png"
 
 export const About = () => {
   return (
