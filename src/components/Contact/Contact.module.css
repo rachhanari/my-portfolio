@@ -85,16 +85,19 @@ button {
   transition: background 0.3s ease-in-out;
 }
 
+button{
+  transition: 0.4s ease;
+  border: 1px solid rgb(189, 206, 222);
+}
+
 button:hover {
-  background: var(--color-accent-dark);
+  background-color: rgb(75, 75, 228);
+  scale: 1.1;
 }
 
-button:disabled {
-  background: #888;
-  cursor: not-allowed;
+button:active {
+  background-color: rgb(75, 75, 228); 
 }
-
-/* ===== Contact Links Styling ===== */
 .links {
   display: flex;
   flex-direction: column;

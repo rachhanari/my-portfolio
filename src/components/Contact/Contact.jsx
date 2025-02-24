@@ -17,7 +17,7 @@ export const Contact = () => {
           <p>Thanks for your message!</p>
         ) : (
           <form onSubmit={handleSubmit}>
-            <label htmlFor="email">Email Address</label>
+            <label htmlFor="email">Email ID</label>
             <input id="email" type="email" name="email" required />
             <ValidationError prefix="Email" field="email" errors={state.errors} />
 
@@ -25,7 +25,7 @@ export const Contact = () => {
             <textarea id="message" name="message" required />
             <ValidationError prefix="Message" field="message" errors={state.errors} />
 
-            <button type="submit" disabled={state.submitting}>Send</button>
+            <button className="button" type="submit" disabled={state.submitting}>Send</button>
           </form>
         )}
       </div>
