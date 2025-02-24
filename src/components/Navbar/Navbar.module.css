@@ -8,6 +8,16 @@
   padding-top: 61px;
   z-index: 2;
   margin: 0 10%;
+  padding: 20px;
+}
+
+.navbar:nth-child():hover {
+text-decoration: underline;
+color: red;
+}
+
+.navbar:active {
+
 }
 
 .title {

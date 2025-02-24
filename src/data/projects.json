@@ -1,20 +1,20 @@
 [
   {
-    "title": "Project A",
+    "title": "E-commerce",
     "imageSrc": "projects/ecomerce.png",
     "description": "An e-commerce web app for electronics with detailed product descriptions, images, and pricing for a seamless shopping experience.",
     "skills": ["React"],
     "source": "https://github.com/rachhanari/CartCraft-Ecommerce.git"
   },
   {
-    "title": "Project B",
+    "title": "EsayTrip",
     "imageSrc": "projects/trip.png",
     "description": "Travel Destinations: Static listings of popular destinations with sample descriptions, images, and pricing.",
     "skills": ["React"],
     "source": "https://github.com/rachhanari/EasyTrip-Webpge.git"
   },
   {
-    "title": "Project C",
+    "title": "Weather_App",
     "imageSrc": "projects/weather.png",
     "description": "Real-time weather display with temperature, humidity, wind speed, and more.",
     "skills": ["HTML", "CSS", "JS"],  
